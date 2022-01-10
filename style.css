@@ -67,7 +67,7 @@ div {
 
  #menu{
 width: 20%;
-height:800px;
+height:200px;
 background-color:#005c80e1;
 color:rgb(205, 226, 205);
 font-family: Georgia, Arial, Helvetica, sans-serif;
@@ -80,8 +80,8 @@ font-size:150%;
  }
 #content {
 background-color:#fdfdb19c;
-width:70%;
-height:800px;
+width:60%;
+height:550px;
 
 }
 table, th, td {
